@@ -1,0 +1,33 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.headline{padding: 20px 0 0 20px;}
+
+.main-visual{background-image: url(img/mv.jpg);
+height: 400px;
+background-size: cover;
+background-position: bottom;
+}
+
+.section{display: block;}
+
+main{width: 840px;
+margin:50px auto;
+display: block;}
+
+.servece1{border-bottom: 1px solid #d1d1d1;
+margin-bottom: 30px;
+padding-bottom:30px ;}
+
+.servece2{border-bottom: 1px solid #d1d1d1;
+margin-bottom: 30px;
+padding-bottom: 30px;}
+
+.servece3{border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 30px;
+  padding-bottom: 30px;}
+
+.servece4{border-bottom: 1px solid #d1d1d1;
+    margin-bottom: 30px;
+    padding-bottom: 30px;}
